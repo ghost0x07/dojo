@@ -1,2 +1,3 @@
 # dojo
-A pet project to test different software architectures and integrations with machine learning use cases. An AutoML solutions to automate solving ml problems.
+
+A pet project to test different machine learning related libraries/frameworks by using Hexagonal/DDD architecture.
